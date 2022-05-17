@@ -1,0 +1,110 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.class1{
+    background-color: #ffc404;
+    height: 200%;
+    width: 100%;
+    position: fixed;
+}
+.innerclass{
+    display: flex;
+    margin-top: 10%;
+    margin-left: 20%;
+    border: 2px black solid;
+    border-radius: 1%;
+    margin-right: 20%;
+    height: 30%;
+    background-color: #2f84a3;
+    /* position: fixed; */
+
+}
+.class1 img{
+    height: 423px;
+    width: 75%;
+}
+#center{
+    margin-left: 55px;
+}
+.fieldside{
+    display: block;
+    margin-right: 15%;
+    /* text-align: center; */
+    
+}
+.input-icons i {
+    position: absolute;
+}
+ 
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.icon {
+    padding: 10px;
+    min-width: 40px;
+}
+ 
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}  
+.title p{
+    text-align: center;
+}
+.username{
+    /* border: 1px black solid; */
+    border-radius: 1%;
+}
+.username input{
+    padding: 7px 45px;
+    margin-right: 20px;
+}
+.username input:hover{
+    /* border: 1px black solid;
+    border-radius: 2%; */
+    border: 2px aqua solid;
+    background-color: #ffc404;
+    /* color: black; */
+    border-radius: 2%;
+}
+.password{
+    border-radius: 1%;
+}
+.password input{
+    padding: 7px 45px;
+    margin-right: 20px;
+}
+.password input:hover{
+    /* border: 1px black solid;
+    border-radius: 2%; */
+    border: 2px aqua solid;
+    background-color: #ffc404;
+    /* color: black; */
+    border-radius: 2%;
+}
+.login button{
+    width: 70px;
+    height: 50px; 
+    margin-top: 30px;
+    margin-left: 100px;
+     
+}
+.login button:hover{
+    border: 2px aqua solid;
+    background-color: #ffc404;
+    color: black;
+    border-radius: 2%;
+
+}
+#fp{
+    margin-left: 110px;
+    color: black;
+    text-decoration: none;
+}
+#fp:hover{
+    color: #ffc404;
+} 
